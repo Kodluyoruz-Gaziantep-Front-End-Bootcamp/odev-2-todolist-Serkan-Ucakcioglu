@@ -11,4 +11,4 @@ https://serkan-usereducer-todo.netlify.app/
 
 
 ### LocalStorage
-![image](https://user-images.githubusercontent.com/98692987/185101853-a956d68c-08fd-4d64-baa6-1258198f17b3.png)
+![image](https://user-images.githubusercontent.com/98692987/185102296-6d99ab39-6b2c-429e-b7f2-26a13dfdf736.png)
